@@ -6,3 +6,4 @@
 * [10 Most Important Microservice Architecture Design Patterns](https://towardsdatascience.com/microservice-architecture-and-its-10-most-important-design-patterns-824952d7fa41)
 
 * [Service Discovery - Youtube](https://www.youtube.com/watch?v=GboiMJm6WlA)
+* [API Gateway - Youtube](https://www.youtube.com/watch?v=1vjOv_f9L8I)
